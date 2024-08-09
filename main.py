@@ -18,3 +18,4 @@ def is_palindrome(word):
          return 'Слово не является палиндромом!'
 
 print(is_palindrome('ама'))
+
